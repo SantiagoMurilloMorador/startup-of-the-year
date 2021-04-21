@@ -1,0 +1,51 @@
+body
+
+html {
+	width: 100px;
+	height: 100px;
+	font-family: 'Zen Dots', cursive;
+}
+
+h1 {
+	font-size: 2rem;
+	font-family: 'Zen Dots';
+	color: white;
+}
+hr {
+	color: white;
+
+}
+
+body {
+	background: url(macbook.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100px
+  height 100px
+
+}
+
+.btn-xl {
+	padding: 1rem 2rem;
+}
+.btn {
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+.btn-primary:hover {
+	background-color: rgb(159, 23, 23);
+	border-color: rgb(159, 23, 23);
+	border-width: 4px;
+}
+
+.btn-primary {
+	background-color: rgb(198, 46, 46);
+	border-color: rgb(198, 46, 46);
+}
+.buffer {
+	height: 4rem;
+}
+
